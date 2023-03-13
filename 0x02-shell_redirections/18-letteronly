@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep '^[[:lapha:]]' /etc/ssh/sshd_config
+egrep ^[[:lapha:]] /etc/ssh/sshd_config
